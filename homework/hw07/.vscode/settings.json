@@ -1,0 +1,8 @@
+{
+"[racket]": {
+        "editor.autoClosingBrackets": "never"
+    },
+"[scheme]": {
+        "editor.autoClosingBrackets": "never"
+ }
+}
